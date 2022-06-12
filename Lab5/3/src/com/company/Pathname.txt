@@ -1,0 +1,8 @@
+file_1.txt
+/ooooooooooyyyyyyyyyyyyyyy/1.2/JAVA/Lab5/3/src/com/company/file_1.txt
+file_2.txt
+/ooooooooooyyyyyyyyyyyyyyy/1.2/JAVA/Lab5/3/src/com/company/file_2.txt
+new1file.txt
+/ooooooooooyyyyyyyyyyyyyyy/1.2/JAVA/Lab5/3/src/com/company/new1file.txt
+new2file.txt
+/ooooooooooyyyyyyyyyyyyyyy/1.2/JAVA/Lab5/3/src/com/company/new2file.txt

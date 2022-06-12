@@ -1,0 +1,122 @@
+;ynapmoc.moc egakcap
+;*.oi.avaj tropmi
+;tsiLyarrA.litu.avaj tropmi
+;rennacS.litu.avaj tropmi
+
+{ niaM ssalc cilbup
+
+
+{)esoohc tni(retne_esoohc >gnirtS<tsiLyarrA citats cilbup    
+;)(><tsiLyarrA wen = tsil >gnirtS<tsiLyarrA        
+{)esoohc( hctiws        
+:0 esac            
+;)ni.metsyS(rennacS wen = ni rennacS                
+;)")1 ткнуп( алйаф огоньлачан ями етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")1 ткнуп( улйаф умоньлачан к ьтуп йынтюлосба етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")2 ткнуп( алйаф огоньлачан ями етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")2 ткнуп( улйаф умоньлачан к ьтуп йынтюлосба етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")1 ткнуп( алйаф оговон ями етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")1 ткнуп( улйаф умовон к ьтуп йынтюлосба етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")2 ткнуп( алйаф оговон ями етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;)")2 ткнуп( улйаф умовон к ьтуп йынтюлосба етидевВ"(nltnirp.tuo.metsyS                
+;))(eniLtxen.ni(dda.tsil                
+;kaerb                
+:1 esac            
+{ yrt                
+;)"txt.emanhtaP/ynapmoc/moc/crs/3/5baL/AVAJ/2.1/yyyyyyyyyyyyyyyoooooooooo/"(eliF wen = htapelif eliF                    
+;)htapelif(redaeReliF wen = rf redaeReliF                    
+;)rf(rennacS wen = elifrennacs rennacS                    
+{ ))(eniLtxeNsah.elifrennacs(elihw                    
+;))(eniLtxen.elifrennacs(dda.tsil                        
+}                    
+;)(esolc.rf                    
+{ )e noitpecxEdnuoFtoNeliF( hctac }                
+;)(ecarTkcatStnirp.e                    
+{ )e noitpecxEOI( hctac }                
+;)(ecarTkcatStnirp.e                    
+}                
+;kaerb                
+:tluafed            
+;)"!вортемарап довв йыньливарпеН"(nltnirp.tuo.metsyS                
+;kaerb                
+
+}        
+;tsil nruter        
+}    
+
+{)emanhtap gnirtS( elif_daer >gnirtS<tsiLyarrA citats cilbup    
+;)(><tsiLyarrA wen = tsil >gnirtS<tsiLyarrA        
+{ yrt        
+;)emanhtap(eliF wen = elifdaer eliF            
+;)elifdaer(redaeReliF wen = rf redaeReliF            
+;)rf(rennacS wen = elifrennacs rennacS            
+{ ))(eniLtxeNsah.elifrennacs(elihw            
+;))(eniLtxen.elifrennacs(dda.tsil                
+}            
+;)(esolc.rf            
+{ )e noitpecxEdnuoFtoNeliF( hctac }        
+;)(ecarTkcatStnirp.e            
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+;tsil nruter        
+}    
+
+{)emanhtap gnirtS,tsil >gnirtS<tsiLyarrA( elif_etirw diov citats cilbup    
+;)emanhtap(eliF wen = elifetirw eliF        
+{ yrt        
+;)eslaf ,elifetirw(retirWeliF wen = rf retirWeliF            
+{)++i ;)(ezis.tsil<i ;0 = i tni( rof            
+;)"n\"+)i(teg.tsil(etirw.rf                
+}            
+;)(hsulf.rf            
+;)(esolc.rf            
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+
+;)".ненлопод лйаФ"(nltnirp.tuo.metsyS        
+
+}    
+
+{ )sgra ][gnirtS(niam diov citats cilbup    
+*/	
+.яивтсйед еынназаку ьтинлопыв и акотоп оговотскет зи кортс ьтсоньлетаводелсоп итсевв ястеуберт хяинадаз хищюуделс В	
+:атнаирав авд ясьтавиртамссар тугом мотэ ирП	
+;аволс огондо зи тиотсос акортс яаджак •    
+.волс хикьлоксен зи тиотсос акортс яаджак •    
+.елйаф в ясьтинарх или икортс йонднамок ыртемарап как ынедевв ьтыб тугом мин к ьтуп йынтюлосба ежкат а ,волйаф огондохыв и огондохв анемИ    
+.укортсдоп юуннадаз ьтиладу и итйан екортс йоджак В .1    
+.ынилд йони укортсдоп ан укортсдоп юуннадаз ьтинемаз и итйан аколБ арднаскелА яинеровтохитс екортс йоджак В  .2    
+/* 	
+;2elif_fo_gnirts,elif_fo_gnirts,atad >gnirtS<tsiLyarrA        
+;)(><tsiLyarrA wen = elif_wen_rof >gnirtS<tsiLyarrA        
+;)(><tsiLyarrA wen = 2elif_wen_rof >gnirtS<tsiLyarrA        
+;)ni.metsyS(rennacS wen = ni rennacS        
+;)"алйаф зи - 1 ;юунчурв еинедевв - 0 :мин к ьтуп йынтюлосба ежкат а ,волйаф огондохыв и огондохв неми яинедевв босопс етеребыВ"(nltnirp.tuo.metsyS        
+;)(tnItxen.ni = esoohc tni        
+;)esoohc(retne_esoohc = atad        
+;)"------------------------"(nltnirp.tuo.metsyS        
+;)"1 №"(nltnirp.tuo.metsyS        
+;))1(teg.atad(elif_daer = elif_fo_gnirts        
+;)elif_fo_gnirts(nltnirp.tuo.metsyS        
+{)++i ;)(ezis.elif_fo_gnirts<i ;0 = i tni( rof        
+;))"","нидо"(ecalper.)i(teg.elif_fo_gnirts(dda.elif_wen_rof            
+}        
+;))5(teg.atad,elif_wen_rof(elif_etirw        
+;)"------------------------"(nltnirp.tuo.metsyS        
+;)"2 №"(nltnirp.tuo.metsyS        
+;))3(teg.atad(elif_daer = 2elif_fo_gnirts        
+{)++i ;)(ezis.2elif_fo_gnirts<i ;0 = i tni( rof        
+;))"987654321кираноф","ьраноф"(ecalper.)i(teg.2elif_fo_gnirts(dda.2elif_wen_rof            
+}        
+;))7(teg.atad,2elif_wen_rof(elif_etirw        
+}    
+}
